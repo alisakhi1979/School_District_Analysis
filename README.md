@@ -23,13 +23,8 @@ The purpose of this analysis is to re-run the PyCity School District analysis by
 
 ## B) Results:
 
-How is the district summary affected?
-![] (https://github.com/alisakhi1979/School_District_Analysis/blob/main/images/original_district%20analysis.png)
+- District summary:
+Analysis using the complete dataset:
+![](images/original_district%20analysis.png)
 
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+Analysis of dataset excluding 9th garde of Thomas High School:
