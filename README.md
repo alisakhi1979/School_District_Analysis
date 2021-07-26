@@ -24,7 +24,7 @@ The purpose of this analysis is to re-run the PyCity School District analysis by
 ## B) Results:
 
 How is the district summary affected?
-![] (alisakhi1979/School_District_Analysis/blob/main/images/original_district%20analysis.png)
+![] (https://github.com/alisakhi1979/School_District_Analysis/blob/main/images/original_district%20analysis.png)
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
