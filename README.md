@@ -70,7 +70,7 @@ Analysis of dataset excluding 9th garde of Thomas High School:
 e) scores by school size:
 
 Analysis using the complete dataset:
-
+![](images/original_score_size.png)
 
 Analysis of dataset excluding 9th garde of Thomas High School:
 ![](images/new_score_size.png)
