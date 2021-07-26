@@ -23,10 +23,10 @@ The purpose of this analysis is to re-run the PyCity School District analysis by
 
 ## B) Results:
 
-- District summary:
+- District Summary:
 
 Analysis using the complete dataset:
-![](images/original_district%20analysis.png)
+![](images/original_district_analysis.png)
 
 Analysis of dataset excluding 9th garde of Thomas High School:
 ![](images/new_district_analysis.png)
@@ -35,4 +35,7 @@ Analysis of dataset excluding 9th garde of Thomas High School:
 1. Average scores in math declined by 0.01 change from 79.0 to 78.9
 2. Average scores in reading had no change and remained at 81.9
 3. % Passing Math declined by 0.02% from 75% to 74.8%
-4. % Passing reading declined by 0.03% from 75% to 74.8%  
+4. % Passing Reading declined by 0.01% from 85.8% to 85.7%
+5. % Overall Passing declined by 0.03% from 85.2% to 64.9%  
+
+- School Summary:
