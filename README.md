@@ -65,7 +65,7 @@ Analysis using the complete dataset:
 Analysis of dataset excluding 9th garde of Thomas High School:
 ![](images/new_score_spending.png)
 
-**Findings:** school spendings and related results did not change except for $630-644 bin. This is becuase the Thomas high School is categorized in this bin as per its budget. There is sslightly decline on average scores and % passing after exclusion of 9th grade student of Thomas High School. The changes are less than a point in scores and less than 0.1% in passing rate, therfore, when the numbers rounded to no decimal point there is almost no changes.
+**Findings:** school spendings and related results did not change except for $630-644 bin. This is becuase the Thomas high School is categorized in this bin as per its budget. After excluding 9th grade student of Thomas High SchoolThere is slightly decline on average scores and % passing for math as well as slightly increase on average scores and % passing for reading. The changes are less than a point in scores and less than 0.1% in passing rate, therfore, when the numbers are rounded to no decimal point there is almost no changes.
 
 e) scores by school size:
 
@@ -75,8 +75,26 @@ Analysis using the complete dataset:
 Analysis of dataset excluding 9th garde of Thomas High School:
 ![](images/new_score_size.png)
 
-**Findings:** school size and related results did not change except for medium(1000 -2000) bin. This is becuase the Thomas high School is categorized in this bin as per its budget. There is slightly decline on average scores and % passing after exclusion of 9th grade student of Thomas High School. The changes are less than a point in scores and less than 0.1% in passing rate, therfore, when the numbers are rounded to no decimal point there is almost no changes.
+**Findings:** school size and related results did not change except for medium(1000 -2000) bin. This is becuase the Thomas high School is categorized in this bin as per the number of students. After excluding 9th grade student of Thomas High SchoolThere is slightly decline on average scores and % passing for math as well as slightly increase on average scores and % passing for reading. The changes are less than a point in scores and less than 0.1% in passing rate, therfore, when the numbers are rounded to no decimal point there is almost no changes.
 
 f) Scores by school type:
 
+Analysis using the complete dataset:
+![](images/original_type.png)
 
+Analysis of dataset excluding 9th garde of Thomas High School:
+![](images/new_type.png)
+
+**Findings:** school type and related results did not change except for charter school type. This is becuase the Thomas high School is charter school. After excluding 9th grade student of Thomas High SchoolThere is slightly decline on average scores and % passing for math as well as slightly increase on average scores and % passing for reading. The changes are less than a point in scores and less than 0.1% in passing rate, therfore, when the numbers are rounded to no decimal point there is almost no changes.
+
+
+## C) Summary:
+
+Significant changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+
+- Results of Thomas High School:
+1. % Passing Math declined significantly by 26% from 93% to 67%
+2. % Passing Reading declined significantly by 27% from 97% to 70%
+3. % Overall Passing declined significantly by 26% from 91% to 65%
+
+- Overall the results of analysis at the school level shows a decline in math score and passing percentage while showing increase in reading scores and passing percentage. 
