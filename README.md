@@ -56,4 +56,9 @@ Analysis of dataset excluding 9th garde of Thomas High School:
 - Math and reading scores by grade:
 **Findings:** exclusion of the 9th grade student result from the data set had no effect on the scores by grade analysis becuase the excluded data are independent to to the data for other grades. Hoever, the result of 9th grade for Thomas High School is marked as "nan" due to removal of the records in new dataset.
 
-- Scores by school spending
+- Scores by school spending:
+Analysis using the complete dataset:
+![](images/original_score_spending.png)
+
+Analysis of dataset excluding 9th garde of Thomas High School:
+![](images/new_score_spending.png)
