@@ -39,3 +39,21 @@ Analysis of dataset excluding 9th garde of Thomas High School:
 5. % Overall Passing declined by 0.03% from 85.2% to 64.9%  
 
 - School Summary:
+
+Analysis using the complete dataset:
+![](images/original_school_analysis.png)
+
+Analysis of dataset excluding 9th garde of Thomas High School:
+![](images/new_school_analysis.png)
+
+**Findings:** the results of analysis after excluding 9th grade students of Thomas High School did not change the outcome of the other schools at individual level. Therefore, the outcomes of schools are independent but the overall district outcome, as observed in the above, has slightly changed due to this exclusion of data. In the school summary only the result for Thomas High scholl has changed in the followings:
+
+1. Average scores for both math and reading declined slightly less that a decimal point. This change does not seem to be significant.
+2. % Passing Math declined significantly by 26% from 93% to 67%
+3. % Passing Reading declined significantly by 27% from 97% to 70%
+4. % Overall Passing declined significantly by 26% from 91% to 65%
+
+- Math and reading scores by grade:
+**Findings:** exclusion of the 9th grade student result from the data set had no effect on the scores by grade analysis becuase the excluded data are independent to to the data for other grades. Hoever, the result of 9th grade for Thomas High School is marked as "nan" due to removal of the records in new dataset.
+
+- Scores by school spending
