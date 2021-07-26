@@ -65,6 +65,18 @@ Analysis using the complete dataset:
 Analysis of dataset excluding 9th garde of Thomas High School:
 ![](images/new_score_spending.png)
 
-**Findings:** school spendings and related results did not change except for $630-644 bin. This is becuase the Thomas high School is categorized in this bin as per its budget. There is sslightly decline on average scores and % passing after exclusion of 9th grade student of Thomas High School. The changes are less than a point in scores and less than o.1% in passing rate, therfore, when the numbers are round there is almost no changes.
+**Findings:** school spendings and related results did not change except for $630-644 bin. This is becuase the Thomas high School is categorized in this bin as per its budget. There is sslightly decline on average scores and % passing after exclusion of 9th grade student of Thomas High School. The changes are less than a point in scores and less than 0.1% in passing rate, therfore, when the numbers rounded to no decimal point there is almost no changes.
 
 e) scores by school size:
+
+Analysis using the complete dataset:
+![](images/original_score_size.png)
+
+Analysis of dataset excluding 9th garde of Thomas High School:
+![](images/new_score_size.png)
+
+**Findings:** school size and related results did not change except for medium(1000 -2000) bin. This is becuase the Thomas high School is categorized in this bin as per its budget. There is slightly decline on average scores and % passing after exclusion of 9th grade student of Thomas High School. The changes are less than a point in scores and less than 0.1% in passing rate, therfore, when the numbers are rounded to no decimal point there is almost no changes.
+
+f) Scores by school type:
+
+
