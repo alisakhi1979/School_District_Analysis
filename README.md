@@ -23,7 +23,7 @@ The purpose of this analysis is to re-run the PyCity School District analysis by
 
 ## B) Results:
 
-- District Summary:
+a) District Summary:
 
 Analysis using the complete dataset:
 ![](images/original_district_analysis.png)
@@ -38,7 +38,7 @@ Analysis of dataset excluding 9th garde of Thomas High School:
 4. % Passing Reading declined by 0.01% from 85.8% to 85.7%
 5. % Overall Passing declined by 0.03% from 85.2% to 64.9%  
 
-- School Summary:
+b) School Summary:
 
 Analysis using the complete dataset:
 ![](images/original_school_analysis.png)
@@ -53,14 +53,18 @@ Analysis of dataset excluding 9th garde of Thomas High School:
 3. % Passing Reading declined significantly by 27% from 97% to 70%
 4. % Overall Passing declined significantly by 26% from 91% to 65%
 
-- Math and reading scores by grade:
+c) Math and reading scores by grade:
 
 **Findings:** exclusion of the 9th grade student result from the data set had no effect on the scores by grade analysis becuase the excluded data are independent to to the data for other grades. Hoever, the result of 9th grade for Thomas High School is marked as "nan" due to removal of the records in new dataset.
 
-- Scores by school spending:
+d) Scores by school spending:
 
 Analysis using the complete dataset:
-![](images/original_score_spending.png)
+![](images/original_scores_spending.png)
 
 Analysis of dataset excluding 9th garde of Thomas High School:
 ![](images/new_score_spending.png)
+
+**Findings:** school spendings and related results did not change except for $630-644 bin. This is becuase the Thomas high School is categorized in this bin as per its budget. There is sslightly decline on average scores and % passing after exclusion of 9th grade student of Thomas High School. The changes are less than a point in scores and less than o.1% in passing rate, therfore, when the numbers are round there is almost no changes.
+
+e) scores by school size:
